@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 
-- Solution URL: (http://SuryaGumilar.github.io/repository)
+- Solution URL: (https://suryagumilar.github.io/fylo-landing-page/)
 
 
 ### My process
